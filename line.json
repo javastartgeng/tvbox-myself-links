@@ -1,0 +1,17 @@
+{
+    "urls": [
+    
+        {"name": "🌈金鹰极速接口","url": "https://fastly.jsdelivr.net/gh/javastartgeng/tvbox-myself-links@main/line/spider.json"}, 
+
+        {"name": "🎎聚宝盆主接口","url": "https://fastly.jsdelivr.net/gh/javastartgeng/tvbox-myself-links@main/line/fan.json"}, 
+
+        {"name":"私藏","url":"https://fastly.jsdelivr.net/gh/javastartgeng/tvbox-myself-links@main/line/vip.json"}, 
+        
+        {"name": "饭太硬","url": "http://www.饭太硬.com/tv/"},
+        
+       // {"name": "多多","url": "https://gitea.moe/NB666/netdisk/raw/branch/main/jsm.json"},
+
+        {"name": "💫巧技线路","url": "http://cdn.qiaoji8.com/tvbox.json"}              
+    ]
+   
+}
