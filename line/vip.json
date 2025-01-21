@@ -1,5 +1,5 @@
 {
-	"spider": "https://www.bestpvp.site/tvbox/jar/custom_spider_stable.jar",
+	"spider": "./jar/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
